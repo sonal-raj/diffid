@@ -6,5 +6,6 @@ import sys
 # Main method to parse terminal command and decipher 
 # diff type to invoke relevant utility.
 class Diffid:
-    def main():
+    def main(self):
         # Parse args
+        return
